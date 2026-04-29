@@ -1,0 +1,3771 @@
+{
+  "generated_at": "2026-04-29T12:20:38.946889Z",
+  "listings": {
+    "port-la-mer": {
+      "name": "Port de la Mer",
+      "subtitle": "1BR \u00b7 Jumeirah 1 \u00b7 Marina + Burj Khalifa view",
+      "periods": [
+        {
+          "period": "May low",
+          "start": "2026-05-01",
+          "end": "2026-05-28",
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "why": "Low season approaching summer. Drop from current AED 460 \u2014 currently overpriced for shoulder demand."
+        },
+        {
+          "period": "May-Jun summer entry",
+          "start": "2026-05-29",
+          "end": "2026-06-30",
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "why": "Heat building, tourist demand falling. Hold same low-season floor."
+        },
+        {
+          "period": "Rock bottom summer",
+          "start": "2026-07-01",
+          "end": "2026-08-31",
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "why": "Hottest months (40-45\u00b0C). At PdLM long-term monthly median: AED 350 with 22% monthly discount = AED 8,190/month vs market median AED 8,300."
+        },
+        {
+          "period": "Sep early hot",
+          "start": "2026-09-01",
+          "end": "2026-09-15",
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "why": "Hold summer floor through mid-Sep. Still 38-42\u00b0C. Demand has not yet pivoted (was 420/470 in v1 \u2014 corrected per expert critique)."
+        },
+        {
+          "period": "Sep late awakening",
+          "start": "2026-09-16",
+          "end": "2026-09-30",
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "why": "Weather breaks late September. Returning expats and early-season tourists."
+        },
+        {
+          "period": "October cooling",
+          "start": "2026-10-01",
+          "end": "2026-10-22",
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "why": "Tourists return as weather becomes pleasant. Family travel begins."
+        },
+        {
+          "period": "UK half-term bump",
+          "start": "2026-10-23",
+          "end": "2026-10-30",
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "why": "UK October half-term (Oct 26-30). Strong British family demand into Dubai."
+        },
+        {
+          "period": "November peak weather",
+          "start": "2026-11-01",
+          "end": "2026-11-22",
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "why": "Best weather month. Burj Khalifa view differentiator. Steady demand."
+        },
+        {
+          "period": "Pre-National-Day",
+          "start": "2026-11-23",
+          "end": "2026-11-29",
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "why": "Inflow building toward UAE 55th National Day."
+        },
+        {
+          "period": "UAE National Day",
+          "start": "2026-11-30",
+          "end": "2026-12-03",
+          "host_now": 1030,
+          "host_after_reviews": 1150,
+          "guest_now": 1257,
+          "guest_after_reviews": 1404,
+          "why": "3-day UAE public holiday block."
+        },
+        {
+          "period": "F1 Abu Dhabi GP weekend",
+          "start": "2026-12-04",
+          "end": "2026-12-07",
+          "host_now": 1100,
+          "host_after_reviews": 1200,
+          "guest_now": 1342,
+          "guest_after_reviews": 1464,
+          "why": "F1 race in Abu Dhabi (140km away). Spillover only \u2014 was 1255/1400 in v1, corrected per expert + cross-checked."
+        },
+        {
+          "period": "DSF weekday lull",
+          "start": "2026-12-08",
+          "end": "2026-12-15",
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "why": "Dubai Shopping Festival running, post-F1 lull on weekdays."
+        },
+        {
+          "period": "Pre-Christmas inflow",
+          "start": "2026-12-16",
+          "end": "2026-12-22",
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "why": "European travelers arriving."
+        },
+        {
+          "period": "Christmas peak",
+          "start": "2026-12-23",
+          "end": "2026-12-27",
+          "host_now": 1500,
+          "host_after_reviews": 1680,
+          "guest_now": 1830,
+          "guest_after_reviews": 2050,
+          "why": "Christmas peak. Set 5-night minimum. Comp median 1827 z\u0142."
+        },
+        {
+          "period": "Pre-NYE bridge",
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "host_now": 1610,
+          "host_after_reviews": 1800,
+          "guest_now": 1964,
+          "guest_after_reviews": 2196,
+          "why": "Bridge between Christmas and NYE."
+        },
+        {
+          "period": "NYE Burj Khalifa fireworks",
+          "start": "2026-12-30",
+          "end": "2027-01-01",
+          "host_now": 2200,
+          "host_after_reviews": 2500,
+          "guest_now": 2684,
+          "guest_after_reviews": 3050,
+          "why": "4-night minimum. AED 2200 (now) defensible upper-mid for 3-review listing \u2014 was 2400/2650 in v1, corrected per expert + cross-checked."
+        }
+      ],
+      "by_date": {
+        "2026-05-01": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-02": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-03": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-04": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-05": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-06": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-07": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-08": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-09": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-10": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-11": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-12": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-13": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-14": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-15": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-16": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-17": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-18": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-19": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-20": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-21": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-22": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-23": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-24": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-25": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-26": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-27": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-28": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May low"
+        },
+        "2026-05-29": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-05-30": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-05-31": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-01": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-02": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-03": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-04": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-05": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-06": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-07": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-08": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-09": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-10": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-11": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-12": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-13": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-14": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-15": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-16": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-17": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-18": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-19": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-20": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-21": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-22": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-23": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-24": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-25": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-26": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-27": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-28": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-29": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-30": {
+          "host_now": 380,
+          "host_after_reviews": 425,
+          "guest_now": 464,
+          "guest_after_reviews": 519,
+          "period": "May-Jun summer entry"
+        },
+        "2026-07-01": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-02": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-03": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-04": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-05": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-06": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-07": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-08": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-09": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-10": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-11": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-12": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-13": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-14": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-15": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-16": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-17": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-18": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-19": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-20": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-21": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-22": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-23": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-24": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-25": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-26": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-27": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-28": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-29": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-30": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-31": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-01": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-02": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-03": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-04": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-05": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-06": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-07": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-08": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-09": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-10": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-11": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-12": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-13": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-14": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-15": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-16": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-17": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-18": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-19": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-20": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-21": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-22": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-23": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-24": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-25": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-26": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-27": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-28": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-29": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-30": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-31": {
+          "host_now": 350,
+          "host_after_reviews": 380,
+          "guest_now": 427,
+          "guest_after_reviews": 464,
+          "period": "Rock bottom summer"
+        },
+        "2026-09-01": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-02": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-03": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-04": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-05": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-06": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-07": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-08": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-09": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-10": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-11": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-12": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-13": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-14": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-15": {
+          "host_now": 380,
+          "host_after_reviews": 420,
+          "guest_now": 464,
+          "guest_after_reviews": 513,
+          "period": "Sep early hot"
+        },
+        "2026-09-16": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-17": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-18": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-19": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-20": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-21": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-22": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-23": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-24": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-25": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-26": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-27": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-28": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-29": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-09-30": {
+          "host_now": 540,
+          "host_after_reviews": 600,
+          "guest_now": 659,
+          "guest_after_reviews": 732,
+          "period": "Sep late awakening"
+        },
+        "2026-10-01": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-02": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-03": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-04": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-05": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-06": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-07": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-08": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-09": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-10": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-11": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-12": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-13": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-14": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-15": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-16": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-17": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-18": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-19": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-20": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-21": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-22": {
+          "host_now": 660,
+          "host_after_reviews": 740,
+          "guest_now": 805,
+          "guest_after_reviews": 903,
+          "period": "October cooling"
+        },
+        "2026-10-23": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-10-24": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-10-25": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-10-26": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-10-27": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-10-28": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-10-29": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-10-30": {
+          "host_now": 770,
+          "host_after_reviews": 870,
+          "guest_now": 940,
+          "guest_after_reviews": 1062,
+          "period": "UK half-term bump"
+        },
+        "2026-11-01": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-02": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-03": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-04": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-05": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-06": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-07": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-08": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-09": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-10": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-11": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-12": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-13": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-14": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-15": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-16": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-17": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-18": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-19": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-20": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-21": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-22": {
+          "host_now": 820,
+          "host_after_reviews": 920,
+          "guest_now": 1000,
+          "guest_after_reviews": 1123,
+          "period": "November peak weather"
+        },
+        "2026-11-23": {
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-24": {
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-25": {
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-26": {
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-27": {
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-28": {
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-29": {
+          "host_now": 900,
+          "host_after_reviews": 1020,
+          "guest_now": 1098,
+          "guest_after_reviews": 1245,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-30": {
+          "host_now": 1030,
+          "host_after_reviews": 1150,
+          "guest_now": 1257,
+          "guest_after_reviews": 1404,
+          "period": "UAE National Day"
+        },
+        "2026-12-01": {
+          "host_now": 1030,
+          "host_after_reviews": 1150,
+          "guest_now": 1257,
+          "guest_after_reviews": 1404,
+          "period": "UAE National Day"
+        },
+        "2026-12-02": {
+          "host_now": 1030,
+          "host_after_reviews": 1150,
+          "guest_now": 1257,
+          "guest_after_reviews": 1404,
+          "period": "UAE National Day"
+        },
+        "2026-12-03": {
+          "host_now": 1030,
+          "host_after_reviews": 1150,
+          "guest_now": 1257,
+          "guest_after_reviews": 1404,
+          "period": "UAE National Day"
+        },
+        "2026-12-04": {
+          "host_now": 1100,
+          "host_after_reviews": 1200,
+          "guest_now": 1342,
+          "guest_after_reviews": 1464,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-05": {
+          "host_now": 1100,
+          "host_after_reviews": 1200,
+          "guest_now": 1342,
+          "guest_after_reviews": 1464,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-06": {
+          "host_now": 1100,
+          "host_after_reviews": 1200,
+          "guest_now": 1342,
+          "guest_after_reviews": 1464,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-07": {
+          "host_now": 1100,
+          "host_after_reviews": 1200,
+          "guest_now": 1342,
+          "guest_after_reviews": 1464,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-08": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-09": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-10": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-11": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-12": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-13": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-14": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-15": {
+          "host_now": 920,
+          "host_after_reviews": 1030,
+          "guest_now": 1123,
+          "guest_after_reviews": 1257,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-16": {
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-17": {
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-18": {
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-19": {
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-20": {
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-21": {
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-22": {
+          "host_now": 1080,
+          "host_after_reviews": 1210,
+          "guest_now": 1318,
+          "guest_after_reviews": 1477,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-23": {
+          "host_now": 1500,
+          "host_after_reviews": 1680,
+          "guest_now": 1830,
+          "guest_after_reviews": 2050,
+          "period": "Christmas peak"
+        },
+        "2026-12-24": {
+          "host_now": 1500,
+          "host_after_reviews": 1680,
+          "guest_now": 1830,
+          "guest_after_reviews": 2050,
+          "period": "Christmas peak"
+        },
+        "2026-12-25": {
+          "host_now": 1500,
+          "host_after_reviews": 1680,
+          "guest_now": 1830,
+          "guest_after_reviews": 2050,
+          "period": "Christmas peak"
+        },
+        "2026-12-26": {
+          "host_now": 1500,
+          "host_after_reviews": 1680,
+          "guest_now": 1830,
+          "guest_after_reviews": 2050,
+          "period": "Christmas peak"
+        },
+        "2026-12-27": {
+          "host_now": 1500,
+          "host_after_reviews": 1680,
+          "guest_now": 1830,
+          "guest_after_reviews": 2050,
+          "period": "Christmas peak"
+        },
+        "2026-12-28": {
+          "host_now": 1610,
+          "host_after_reviews": 1800,
+          "guest_now": 1964,
+          "guest_after_reviews": 2196,
+          "period": "Pre-NYE bridge"
+        },
+        "2026-12-29": {
+          "host_now": 1610,
+          "host_after_reviews": 1800,
+          "guest_now": 1964,
+          "guest_after_reviews": 2196,
+          "period": "Pre-NYE bridge"
+        },
+        "2026-12-30": {
+          "host_now": 2200,
+          "host_after_reviews": 2500,
+          "guest_now": 2684,
+          "guest_after_reviews": 3050,
+          "period": "NYE Burj Khalifa fireworks"
+        },
+        "2026-12-31": {
+          "host_now": 2200,
+          "host_after_reviews": 2500,
+          "guest_now": 2684,
+          "guest_after_reviews": 3050,
+          "period": "NYE Burj Khalifa fireworks"
+        },
+        "2027-01-01": {
+          "host_now": 2200,
+          "host_after_reviews": 2500,
+          "guest_now": 2684,
+          "guest_after_reviews": 3050,
+          "period": "NYE Burj Khalifa fireworks"
+        }
+      }
+    },
+    "mjl-iconic-terrace": {
+      "name": "MJL Iconic Terrace",
+      "subtitle": "1BR \u00b7 Umm Suqeim 3 \u00b7 Private terrace + pool \u00b7 near Burj Al Arab",
+      "periods": [
+        {
+          "period": "May low",
+          "start": "2026-05-01",
+          "end": "2026-05-28",
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "why": "Low season approaching summer. Drop from current ~460. Market the terrace for outdoor dining."
+        },
+        {
+          "period": "May-Jun summer entry",
+          "start": "2026-05-29",
+          "end": "2026-06-30",
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "why": "Heat building, demand falling. Hold same low-season floor."
+        },
+        {
+          "period": "Rock bottom summer",
+          "start": "2026-07-01",
+          "end": "2026-08-31",
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "why": "Hottest months (40-45\u00b0C), Dubai's lowest tourist demand. AED 390 with 22% monthly discount = AED 9,126/month, premium tier vs MJL long-term floor of AED 6,500-7,500."
+        },
+        {
+          "period": "Sep early hot",
+          "start": "2026-09-01",
+          "end": "2026-09-15",
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "why": "Still 38-42\u00b0C. Demand has not yet pivoted."
+        },
+        {
+          "period": "Sep late awakening",
+          "start": "2026-09-16",
+          "end": "2026-09-30",
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "why": "Weather breaks late September. MJL more expat-driven than Port de la Mer."
+        },
+        {
+          "period": "October cooling",
+          "start": "2026-10-01",
+          "end": "2026-10-22",
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "why": "Tourists return. MJL's family vibe (Wild Wadi, Madinat Souk) starts paying off."
+        },
+        {
+          "period": "UK half-term bump",
+          "start": "2026-10-23",
+          "end": "2026-10-30",
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "why": "UK October half-term (Oct 26-30). MJL is THE family area in Dubai."
+        },
+        {
+          "period": "November peak weather",
+          "start": "2026-11-01",
+          "end": "2026-11-22",
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "why": "Best weather month. Real comp scrape shows MJL ~+1-3% over Port de la Mer (NOT +15% as initially assumed)."
+        },
+        {
+          "period": "Pre-National-Day",
+          "start": "2026-11-23",
+          "end": "2026-11-29",
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "why": "Inflow building toward UAE National Day."
+        },
+        {
+          "period": "UAE National Day",
+          "start": "2026-11-30",
+          "end": "2026-12-03",
+          "host_now": 1005,
+          "host_after_reviews": 1185,
+          "guest_now": 1226,
+          "guest_after_reviews": 1446,
+          "why": "3-day UAE public holiday. Local demand drives MJL \u2014 Burj Al Arab fireworks + Souk events."
+        },
+        {
+          "period": "F1 Abu Dhabi GP weekend",
+          "start": "2026-12-04",
+          "end": "2026-12-07",
+          "host_now": 855,
+          "host_after_reviews": 1010,
+          "guest_now": 1043,
+          "guest_after_reviews": 1232,
+          "why": "F1 race in Abu Dhabi (140km). Demand concentrates Yas/Saadiyat. Spillover only \u2014 don't overprice."
+        },
+        {
+          "period": "DSF weekday lull",
+          "start": "2026-12-08",
+          "end": "2026-12-15",
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "why": "Dubai Shopping Festival running, but post-F1 lull. MJL less DSF-driven."
+        },
+        {
+          "period": "Pre-Christmas inflow",
+          "start": "2026-12-16",
+          "end": "2026-12-22",
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "why": "European travelers arriving. MJL family appeal strongest."
+        },
+        {
+          "period": "Christmas peak",
+          "start": "2026-12-23",
+          "end": "2026-12-27",
+          "host_now": 1200,
+          "host_after_reviews": 1415,
+          "guest_now": 1464,
+          "guest_after_reviews": 1726,
+          "why": "Set 5-night minimum. Comp at-median for 0-review listing wouldn't beat 11-30 review competition \u2014 discount 15% below median to win."
+        },
+        {
+          "period": "Pre-NYE bridge",
+          "start": "2026-12-28",
+          "end": "2026-12-29",
+          "host_now": 1580,
+          "host_after_reviews": 1865,
+          "guest_now": 1928,
+          "guest_after_reviews": 2275,
+          "why": "Bridge between Christmas and NYE. Top arrivals."
+        },
+        {
+          "period": "NYE Burj Khalifa fireworks",
+          "start": "2026-12-30",
+          "end": "2027-01-01",
+          "host_now": 2200,
+          "host_after_reviews": 2600,
+          "guest_now": 2684,
+          "guest_after_reviews": 3172,
+          "why": "4-night minimum. AED 2200 is bottom of available comp range \u2014 defensible for 0-review listing. Block early. Never discount. Lock 5-star review for 2027 marketing."
+        }
+      ],
+      "by_date": {
+        "2026-05-01": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-02": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-03": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-04": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-05": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-06": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-07": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-08": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-09": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-10": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-11": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-12": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-13": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-14": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-15": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-16": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-17": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-18": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-19": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-20": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-21": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-22": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-23": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-24": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-25": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-26": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-27": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-28": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May low"
+        },
+        "2026-05-29": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-05-30": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-05-31": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-01": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-02": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-03": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-04": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-05": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-06": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-07": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-08": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-09": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-10": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-11": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-12": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-13": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-14": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-15": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-16": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-17": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-18": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-19": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-20": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-21": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-22": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-23": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-24": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-25": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-26": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-27": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-28": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-29": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-06-30": {
+          "host_now": 420,
+          "host_after_reviews": 495,
+          "guest_now": 512,
+          "guest_after_reviews": 604,
+          "period": "May-Jun summer entry"
+        },
+        "2026-07-01": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-02": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-03": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-04": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-05": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-06": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-07": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-08": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-09": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-10": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-11": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-12": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-13": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-14": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-15": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-16": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-17": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-18": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-19": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-20": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-21": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-22": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-23": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-24": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-25": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-26": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-27": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-28": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-29": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-30": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-07-31": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-01": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-02": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-03": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-04": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-05": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-06": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-07": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-08": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-09": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-10": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-11": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-12": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-13": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-14": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-15": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-16": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-17": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-18": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-19": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-20": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-21": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-22": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-23": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-24": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-25": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-26": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-27": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-28": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-29": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-30": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-08-31": {
+          "host_now": 390,
+          "host_after_reviews": 460,
+          "guest_now": 476,
+          "guest_after_reviews": 561,
+          "period": "Rock bottom summer"
+        },
+        "2026-09-01": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-02": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-03": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-04": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-05": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-06": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-07": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-08": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-09": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-10": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-11": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-12": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-13": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-14": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-15": {
+          "host_now": 450,
+          "host_after_reviews": 530,
+          "guest_now": 549,
+          "guest_after_reviews": 647,
+          "period": "Sep early hot"
+        },
+        "2026-09-16": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-17": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-18": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-19": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-20": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-21": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-22": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-23": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-24": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-25": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-26": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-27": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-28": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-29": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-09-30": {
+          "host_now": 610,
+          "host_after_reviews": 720,
+          "guest_now": 744,
+          "guest_after_reviews": 878,
+          "period": "Sep late awakening"
+        },
+        "2026-10-01": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-02": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-03": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-04": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-05": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-06": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-07": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-08": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-09": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-10": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-11": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-12": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-13": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-14": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-15": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-16": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-17": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-18": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-19": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-20": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-21": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-22": {
+          "host_now": 710,
+          "host_after_reviews": 840,
+          "guest_now": 866,
+          "guest_after_reviews": 1025,
+          "period": "October cooling"
+        },
+        "2026-10-23": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-10-24": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-10-25": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-10-26": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-10-27": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-10-28": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-10-29": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-10-30": {
+          "host_now": 840,
+          "host_after_reviews": 990,
+          "guest_now": 1025,
+          "guest_after_reviews": 1208,
+          "period": "UK half-term bump"
+        },
+        "2026-11-01": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-02": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-03": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-04": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-05": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-06": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-07": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-08": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-09": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-10": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-11": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-12": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-13": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-14": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-15": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-16": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-17": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-18": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-19": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-20": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-21": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-22": {
+          "host_now": 830,
+          "host_after_reviews": 980,
+          "guest_now": 1013,
+          "guest_after_reviews": 1196,
+          "period": "November peak weather"
+        },
+        "2026-11-23": {
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-24": {
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-25": {
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-26": {
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-27": {
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-28": {
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-29": {
+          "host_now": 940,
+          "host_after_reviews": 1110,
+          "guest_now": 1147,
+          "guest_after_reviews": 1354,
+          "period": "Pre-National-Day"
+        },
+        "2026-11-30": {
+          "host_now": 1005,
+          "host_after_reviews": 1185,
+          "guest_now": 1226,
+          "guest_after_reviews": 1446,
+          "period": "UAE National Day"
+        },
+        "2026-12-01": {
+          "host_now": 1005,
+          "host_after_reviews": 1185,
+          "guest_now": 1226,
+          "guest_after_reviews": 1446,
+          "period": "UAE National Day"
+        },
+        "2026-12-02": {
+          "host_now": 1005,
+          "host_after_reviews": 1185,
+          "guest_now": 1226,
+          "guest_after_reviews": 1446,
+          "period": "UAE National Day"
+        },
+        "2026-12-03": {
+          "host_now": 1005,
+          "host_after_reviews": 1185,
+          "guest_now": 1226,
+          "guest_after_reviews": 1446,
+          "period": "UAE National Day"
+        },
+        "2026-12-04": {
+          "host_now": 855,
+          "host_after_reviews": 1010,
+          "guest_now": 1043,
+          "guest_after_reviews": 1232,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-05": {
+          "host_now": 855,
+          "host_after_reviews": 1010,
+          "guest_now": 1043,
+          "guest_after_reviews": 1232,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-06": {
+          "host_now": 855,
+          "host_after_reviews": 1010,
+          "guest_now": 1043,
+          "guest_after_reviews": 1232,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-07": {
+          "host_now": 855,
+          "host_after_reviews": 1010,
+          "guest_now": 1043,
+          "guest_after_reviews": 1232,
+          "period": "F1 Abu Dhabi GP weekend"
+        },
+        "2026-12-08": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-09": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-10": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-11": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-12": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-13": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-14": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-15": {
+          "host_now": 730,
+          "host_after_reviews": 860,
+          "guest_now": 891,
+          "guest_after_reviews": 1049,
+          "period": "DSF weekday lull"
+        },
+        "2026-12-16": {
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-17": {
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-18": {
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-19": {
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-20": {
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-21": {
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-22": {
+          "host_now": 1140,
+          "host_after_reviews": 1345,
+          "guest_now": 1391,
+          "guest_after_reviews": 1641,
+          "period": "Pre-Christmas inflow"
+        },
+        "2026-12-23": {
+          "host_now": 1200,
+          "host_after_reviews": 1415,
+          "guest_now": 1464,
+          "guest_after_reviews": 1726,
+          "period": "Christmas peak"
+        },
+        "2026-12-24": {
+          "host_now": 1200,
+          "host_after_reviews": 1415,
+          "guest_now": 1464,
+          "guest_after_reviews": 1726,
+          "period": "Christmas peak"
+        },
+        "2026-12-25": {
+          "host_now": 1200,
+          "host_after_reviews": 1415,
+          "guest_now": 1464,
+          "guest_after_reviews": 1726,
+          "period": "Christmas peak"
+        },
+        "2026-12-26": {
+          "host_now": 1200,
+          "host_after_reviews": 1415,
+          "guest_now": 1464,
+          "guest_after_reviews": 1726,
+          "period": "Christmas peak"
+        },
+        "2026-12-27": {
+          "host_now": 1200,
+          "host_after_reviews": 1415,
+          "guest_now": 1464,
+          "guest_after_reviews": 1726,
+          "period": "Christmas peak"
+        },
+        "2026-12-28": {
+          "host_now": 1580,
+          "host_after_reviews": 1865,
+          "guest_now": 1928,
+          "guest_after_reviews": 2275,
+          "period": "Pre-NYE bridge"
+        },
+        "2026-12-29": {
+          "host_now": 1580,
+          "host_after_reviews": 1865,
+          "guest_now": 1928,
+          "guest_after_reviews": 2275,
+          "period": "Pre-NYE bridge"
+        },
+        "2026-12-30": {
+          "host_now": 2200,
+          "host_after_reviews": 2600,
+          "guest_now": 2684,
+          "guest_after_reviews": 3172,
+          "period": "NYE Burj Khalifa fireworks"
+        },
+        "2026-12-31": {
+          "host_now": 2200,
+          "host_after_reviews": 2600,
+          "guest_now": 2684,
+          "guest_after_reviews": 3172,
+          "period": "NYE Burj Khalifa fireworks"
+        },
+        "2027-01-01": {
+          "host_now": 2200,
+          "host_after_reviews": 2600,
+          "guest_now": 2684,
+          "guest_after_reviews": 3172,
+          "period": "NYE Burj Khalifa fireworks"
+        }
+      }
+    }
+  }
+}

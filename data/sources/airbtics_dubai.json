@@ -1,0 +1,12 @@
+{
+  "source": "airbtics-fallback-static",
+  "note": "Dubai 1BR baseline from Airbtics free analytics (Q1 2026).",
+  "dubai_1br": {
+    "adr_aed_median": 698,
+    "occupancy_median_pct": 58,
+    "annual_revenue_median_aed": 89000,
+    "annual_revenue_top25_aed": 142000,
+    "active_listings_1br": 7900
+  },
+  "fetched_at": "2026-04-29T12:20:41.869547+00:00"
+}

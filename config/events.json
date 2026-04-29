@@ -1,0 +1,24 @@
+{
+  "events": [
+    {"name": "Eid al-Fitr", "start": "2026-03-20", "end": "2026-03-22", "tier": "high", "note": "UAE public holiday — local + GCC inbound"},
+    {"name": "UK May half-term", "start": "2026-05-23", "end": "2026-05-31", "tier": "medium", "note": "UK family travel"},
+    {"name": "Eid al-Adha", "start": "2026-05-26", "end": "2026-05-29", "tier": "high", "note": "UAE public holiday"},
+    {"name": "Russian Children School Break", "start": "2026-06-01", "end": "2026-08-31", "tier": "medium", "note": "Russian summer holidays — 80% of FSU inbound"},
+    {"name": "UK Summer Holidays", "start": "2026-07-22", "end": "2026-09-01", "tier": "medium", "note": "UK summer break — paradoxical Dubai demand drops (heat)"},
+    {"name": "UAE Hijri New Year", "start": "2026-06-26", "end": "2026-06-26", "tier": "low", "note": "Public holiday"},
+    {"name": "Prophet's Birthday", "start": "2026-08-25", "end": "2026-08-25", "tier": "low", "note": "Public holiday"},
+    {"name": "UK October half-term", "start": "2026-10-26", "end": "2026-10-30", "tier": "high", "note": "Strong UK family inbound"},
+    {"name": "Diwali", "start": "2026-11-08", "end": "2026-11-08", "tier": "medium", "note": "Indian inbound"},
+    {"name": "Pre-National Day inflow", "start": "2026-11-23", "end": "2026-11-29", "tier": "medium", "note": "Builds toward UAE National Day"},
+    {"name": "UAE Commemoration Day", "start": "2026-11-30", "end": "2026-11-30", "tier": "high", "note": "Public holiday"},
+    {"name": "UAE National Day", "start": "2026-12-01", "end": "2026-12-03", "tier": "high", "note": "55th National Day, 3-day block"},
+    {"name": "F1 Abu Dhabi GP", "start": "2026-12-04", "end": "2026-12-07", "tier": "high", "note": "Race in Abu Dhabi (140km), spillover to Dubai"},
+    {"name": "Dubai Shopping Festival", "start": "2026-12-08", "end": "2027-01-31", "tier": "medium", "note": "DSF runs through January"},
+    {"name": "Christmas peak", "start": "2026-12-23", "end": "2026-12-27", "tier": "very_high", "note": "European inbound peak"},
+    {"name": "Pre-NYE bridge", "start": "2026-12-28", "end": "2026-12-29", "tier": "very_high", "note": "Top arrivals window"},
+    {"name": "NYE Burj Khalifa Fireworks", "start": "2026-12-30", "end": "2027-01-01", "tier": "very_high", "note": "Highest peak of the year"},
+    {"name": "Russian Orthodox NYE", "start": "2027-01-02", "end": "2027-01-08", "tier": "high", "note": "Second peak — FSU travelers"},
+    {"name": "Chinese New Year", "start": "2027-02-17", "end": "2027-02-21", "tier": "medium", "note": "Asian inbound"},
+    {"name": "UAE Spring Break", "start": "2027-03-29", "end": "2027-04-12", "tier": "medium", "note": "Local + UK Easter overlap"}
+  ]
+}

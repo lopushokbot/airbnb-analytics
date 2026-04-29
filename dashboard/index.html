@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sema's Airbnb Cockpit</title>
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+</head>
+<body>
+<div class="page">
+
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-title">Pricing Cockpit</div>
+      <div class="brand-sub">Sema's Dubai Airbnbs · 90-day comp tracker</div>
+    </div>
+    <div class="controls">
+      <span class="timestamp" id="ts">—</span>
+      <a class="btn" href="archive.html">Archive →</a>
+      <button class="btn btn-primary" id="howto-btn" onclick="document.getElementById('howto').scrollIntoView({behavior:'smooth'})">How to refresh</button>
+    </div>
+  </header>
+
+  <div id="banner-slot"></div>
+
+  <section>
+    <h4 style="margin-bottom: 16px">Dubai market context</h4>
+    <div class="macro-strip" id="macro-strip"></div>
+  </section>
+
+  <main id="listings"></main>
+
+  <section class="cross-compare">
+    <h2 style="margin-bottom: 8px">Side by side</h2>
+    <p style="color: var(--ink-3); font-size: 14px; margin-bottom: 24px">Both listings on one chart — comp medians compared head-to-head over the next 90 days.</p>
+    <div class="chart-wrap" style="height: 360px"><canvas id="cross-chart"></canvas></div>
+  </section>
+
+  <section id="howto" style="margin-top: 56px">
+    <h2 style="margin-bottom: 16px">How to refresh data</h2>
+    <div class="banner info">
+      <span class="dot"></span>
+      <div>
+        <strong>Phase 1:</strong> open Terminal, run <code style="background: var(--bg-2); padding: 2px 6px; border-radius: 4px">cd ~/Documents/ppppp/workspace/airbnb-analytics &amp;&amp; ./scripts/refresh.sh</code>.
+        Phase 2 (weekly LaunchAgent) ships next.
+      </div>
+    </div>
+  </section>
+
+  <div class="footer">
+    Built with calm. Data: Airbnb · AirROI · AirDNA · Airbtics.
+  </div>
+</div>
+
+<div class="drawer-backdrop" id="drawer-bg" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <button class="close-btn" onclick="closeDrawer()">✕</button>
+  <div id="drawer-content"></div>
+</div>
+
+<script src="app.js" defer></script>
+</body>
+</html>

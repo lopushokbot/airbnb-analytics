@@ -1,0 +1,18 @@
+.DS_Store
+*.swp
+*.swo
+*.pyc
+__pycache__/
+
+# Local secrets
+.env
+.env.local
+
+# Local working files
+data/scrape_plan.txt
+
+# Don't commit alerts log (regenerated on each refresh)
+data/alerts.log
+
+# Per-listing raw scrape files (regenerated on each refresh)
+data/sources/airbnb_*.json

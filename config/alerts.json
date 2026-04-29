@@ -1,0 +1,15 @@
+{
+  "thresholds": {
+    "comp_median_wow_pct": 10,
+    "your_rate_below_comp_pct": 20,
+    "your_rate_above_comp_pct": 20,
+    "comp_count_floor": 4,
+    "airroi_neighborhood_adr_mom_pct": 10
+  },
+  "telegram": {
+    "enabled": false,
+    "bot_token_env": "TELEGRAM_BOT_TOKEN",
+    "chat_id": null
+  },
+  "log_path": "data/alerts.log"
+}

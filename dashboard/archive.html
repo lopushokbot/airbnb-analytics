@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sema's Airbnb Cockpit · Archive</title>
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+</head>
+<body>
+<div class="page">
+
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-title">Pricing Archive</div>
+      <div class="brand-sub">Year-over-year &amp; long-term trends</div>
+    </div>
+    <div class="controls">
+      <span class="timestamp" id="ts">—</span>
+      <a class="btn" href="index.html">← Back to cockpit</a>
+    </div>
+  </header>
+
+  <section style="margin-bottom: 48px">
+    <h2 style="margin-bottom: 8px">History at a glance</h2>
+    <p style="color: var(--ink-3); font-size: 14px; margin-bottom: 24px">
+      Every refresh appends a snapshot. Once 12+ months of data exist, this page lets you compare any window against the same window 1 year prior.
+    </p>
+    <div class="kpi-grid" id="kpis"></div>
+  </section>
+
+  <section>
+    <h2 style="margin-bottom: 8px">Comp median over time · all snapshots</h2>
+    <p style="color: var(--ink-3); font-size: 14px; margin-bottom: 16px">
+      Each line: comp median (averaged across the 90-day forward horizon at the time of scan). Watch for trend reversals or seasonal shifts year-over-year.
+    </p>
+    <div class="chart-wrap" style="height: 380px"><canvas id="trend-chart"></canvas></div>
+  </section>
+
+  <section style="margin-top: 48px">
+    <h2 style="margin-bottom: 8px">Year-over-year</h2>
+    <p style="color: var(--ink-3); font-size: 14px; margin-bottom: 16px" id="yoy-status">
+      Building history… need at least one full year of weekly snapshots before YoY view unlocks.
+    </p>
+    <div id="yoy-content"></div>
+  </section>
+
+  <div class="footer">Long memory. Short responses.</div>
+</div>
+
+<script>
+// ────────────── Archive view ──────────────
+async function loadHistory() {
+  try {
+    const r = await fetch('../data/history.jsonl', { cache: 'no-store' });
+    if (!r.ok) return [];
+    const t = await r.text();
+    return t.trim().split('\n').filter(Boolean).map(l => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
+  } catch { return []; }
+}
+
+const fmtAED = (n) => n == null ? '—' : 'AED ' + new Intl.NumberFormat('en-AE', { maximumFractionDigits: 0 }).format(Math.round(n));
+const getCSS = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim() || '#000';
+
+(async function main() {
+  const history = await loadHistory();
+  const tsEl = document.getElementById('ts');
+
+  if (!history.length) {
+    document.getElementById('kpis').innerHTML = `
+      <div class="kpi"><div class="label">Snapshots collected</div><div class="value">0</div><div class="delta neutral">Run refresh.sh to start</div></div>
+    `;
+    tsEl.textContent = 'No history yet';
+    return;
+  }
+
+  const first = history[0], last = history[history.length - 1];
+  const span = (new Date(last.ts) - new Date(first.ts)) / (1000 * 60 * 60 * 24);
+  tsEl.textContent = 'Latest: ' + new Date(last.ts).toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' });
+
+  // KPI cards
+  const listingCount = Object.keys(last.listings || {}).length;
+  document.getElementById('kpis').innerHTML = `
+    <div class="kpi"><div class="label">Snapshots</div><div class="value">${history.length}</div><div class="delta neutral">since ${new Date(first.ts).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})}</div></div>
+    <div class="kpi"><div class="label">Coverage</div><div class="value">${Math.round(span)} days</div><div class="delta neutral">elapsed history</div></div>
+    <div class="kpi"><div class="label">Listings tracked</div><div class="value">${listingCount}</div><div class="delta neutral">in latest snapshot</div></div>
+    <div class="kpi"><div class="label">Year-over-year</div><div class="value">${span >= 365 ? 'Available' : 'Building'}</div><div class="delta ${span >= 365 ? 'up' : 'neutral'}">${span >= 365 ? 'compare any window' : `${Math.max(0, 365 - Math.round(span))} days to go`}</div></div>
+  `;
+
+  // Trend chart: comp median averaged over forward window per scan, per listing
+  if (typeof Chart === 'undefined') {
+    const wait = setInterval(() => { if (typeof Chart !== 'undefined') { clearInterval(wait); drawTrend(history); } }, 60);
+  } else {
+    drawTrend(history);
+  }
+})();
+
+function drawTrend(history) {
+  const labels = history.map(h => new Date(h.ts).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'2-digit'}));
+  const slugs = new Set();
+  history.forEach(h => Object.keys(h.listings || {}).forEach(s => slugs.add(s)));
+  const palette = [getCSS('--accent'), getCSS('--gold')];
+  const datasets = [...slugs].map((slug, i) => {
+    const name = history.find(h => h.listings?.[slug])?.listings[slug].name || slug;
+    return {
+      label: name,
+      data: history.map(h => {
+        const l = h.listings?.[slug];
+        if (!l) return null;
+        const vals = Object.values(l.by_date || {}).map(d => d.comp_median_host_aed).filter(Boolean);
+        return vals.length ? Math.round(vals.reduce((a,b)=>a+b,0)/vals.length) : null;
+      }),
+      borderColor: palette[i] || getCSS('--accent'),
+      backgroundColor: palette[i] || getCSS('--accent'),
+      borderWidth: 2,
+      pointRadius: 3,
+      tension: 0.3,
+    };
+  });
+  new Chart(document.getElementById('trend-chart'), {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: {
+        legend: { labels: { color: getCSS('--ink-2'), font: { family: 'Inter' } } },
+        tooltip: { backgroundColor: 'rgba(0,0,0,0.85)', callbacks: { label: (c) => `${c.dataset.label}: ${fmtAED(c.parsed.y)}` } },
+      },
+      scales: {
+        x: { ticks: { color: getCSS('--ink-2') }, grid: { color: 'transparent' } },
+        y: {
+          ticks: { color: getCSS('--ink-2'), callback: (v) => fmtAED(v) },
+          grid: { color: getCSS('--line-2') },
+        },
+      },
+    },
+  });
+}
+</script>
+</body>
+</html>

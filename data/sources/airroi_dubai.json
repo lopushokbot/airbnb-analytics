@@ -1,0 +1,29 @@
+{
+  "fetched_at": "2026-04-29T12:20:41.777647+00:00",
+  "source": "airroi-fallback-static",
+  "note": "Baseline from AirROI 2026-04-29 deep dive (port-la-mer RUNBOOK). Replace by implementing live scrape when AirROI exposes a stable endpoint.",
+  "dubai": {
+    "adr_aed_median": 797.0,
+    "adr_aed_top25": 1065.0,
+    "adr_aed_peak_dec": 1421.0,
+    "adr_aed_low_aug": 790.0,
+    "occupancy_median_pct": 43,
+    "occupancy_top25_pct": 69,
+    "occupancy_top10_pct": 84,
+    "annual_revenue_median_aed": 95000
+  },
+  "neighborhoods": {
+    "Jumeirah 1": {
+      "adr_aed_median": 720,
+      "occupancy_median_pct": 45,
+      "listing_count_estimate": 280,
+      "note": "Port de la Mer comp area"
+    },
+    "Umm Suqeim 3": {
+      "adr_aed_median": 850,
+      "occupancy_median_pct": 48,
+      "listing_count_estimate": 95,
+      "note": "MJL comp area, smaller pool, family-skew premium"
+    }
+  }
+}

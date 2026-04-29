@@ -1,0 +1,48 @@
+{
+  "listings": [
+    {
+      "slug": "port-la-mer",
+      "name": "Port de la Mer",
+      "subtitle": "1BR · Jumeirah 1 · Marina + Burj Khalifa view",
+      "listing_id": "1553428068710590281",
+      "neighborhood": "Jumeirah 1",
+      "bedrooms": 1,
+      "size_sqm": 74,
+      "reviews": 3,
+      "rating": 4.67,
+      "pricing_csv_path": "../airbnb-port-la-mer/pricing-rates.csv",
+      "comp_search": {
+        "primary_url_template": "https://www.airbnb.com/s/Port-de-La-Mer--Dubai/homes?adults=2&room_types%5B%5D=Entire%20home%2Fapt&min_bedrooms=1&query=Port%20de%20La%20Mer%20Dubai&checkin={CHECKIN}&checkout={CHECKOUT}",
+        "fallback_url_template": "https://www.airbnb.com/s/Jumeirah-1--Dubai/homes?adults=2&room_types%5B%5D=Entire%20home%2Fapt&min_bedrooms=1&checkin={CHECKIN}&checkout={CHECKOUT}",
+        "geo_keywords": ["La Mer", "Port de la", "Le Pont", "La Cote", "La Sirene"],
+        "exclude_listing_ids": ["1553428068710590281"]
+      }
+    },
+    {
+      "slug": "mjl-iconic-terrace",
+      "name": "MJL Iconic Terrace",
+      "subtitle": "1BR · Umm Suqeim 3 · Private terrace + pool · near Burj Al Arab",
+      "listing_id": "1669457478098882661",
+      "neighborhood": "Umm Suqeim 3",
+      "bedrooms": 1,
+      "size_sqm": 91.5,
+      "reviews": 0,
+      "rating": null,
+      "pricing_csv_path": "../airbnb-mjl-iconic-terrace/pricing-rates.csv",
+      "comp_search": {
+        "primary_url_template": "https://www.airbnb.com/s/Madinat-Jumeirah-Living--Dubai/homes?adults=2&room_types%5B%5D=Entire%20home%2Fapt&min_bedrooms=1&checkin={CHECKIN}&checkout={CHECKOUT}",
+        "fallback_url_template": "https://www.airbnb.com/s/Umm-Suqeim--Dubai/homes?adults=2&room_types%5B%5D=Entire%20home%2Fapt&min_bedrooms=1&checkin={CHECKIN}&checkout={CHECKOUT}",
+        "geo_keywords": ["Madinat Jumeirah Living", "MJL", "Umm Suqeim", "Asayel", "Lamtara", "Al Jazi", "Rahaal"],
+        "exclude_listing_ids": ["1669457478098882661"]
+      }
+    }
+  ],
+  "scan_config": {
+    "horizon_days": 90,
+    "window_nights": 2,
+    "windows": "weekly_friday_saturday",
+    "currency_pln_to_aed": 0.897,
+    "airbnb_guest_fee_factor": 1.14,
+    "guest_sees_factor": 1.22
+  }
+}
