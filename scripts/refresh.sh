@@ -19,10 +19,11 @@ echo "[1/6] Importing your rates from listing CSVs"
 $PY scripts/import_rates.py
 echo
 
-echo "[2/6] Fetching macro data sources"
+echo "[2/6] Fetching macro + real comp data sources"
 $PY sources/airroi_fetch.py
 $PY sources/airdna_fetch.py
 $PY sources/airbtics_fetch.py
+$PY sources/insideairbnb_fetch.py
 echo
 
 echo "[3/6] Generating Airbnb scrape plan"

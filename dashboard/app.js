@@ -140,6 +140,36 @@ function renderMacro({ airroi, airdna, airbtics }) {
   `).join('');
 }
 
+// ────────────── Cross-check badge ──────────────
+
+function crossCheckBadge(cc) {
+  if (!cc) return '';
+  const conf = cc.confidence || 'unknown';
+  const map = {
+    high:      { cls: 'aligned', text: 'Data ✓ high confidence' },
+    medium:    { cls: 'above',   text: `Data ⚠ medium confidence${cc.deviation_pct != null ? ' (' + (cc.deviation_pct > 0 ? '+' : '') + cc.deviation_pct + '% vs benchmark)' : ''}` },
+    low:       { cls: 'below',   text: `Data ✗ low confidence${cc.deviation_pct != null ? ' (' + (cc.deviation_pct > 0 ? '+' : '') + cc.deviation_pct + '% vs benchmark)' : ''}` },
+    synthetic: { cls: 'above',   text: `Synthetic · AirROI ${cc.benchmark_adr ? 'AED ' + cc.benchmark_adr : ''} base` },
+    unknown:   { cls: 'neutral', text: 'Confidence unknown' },
+  };
+  const { cls, text } = map[conf] || map.unknown;
+  let extra = '';
+  if (cc.insideairbnb_median) {
+    extra += `<span style="margin-left:8px;font-size:11px;opacity:.75">InsideAirbnb AED ${cc.insideairbnb_median}</span>`;
+  }
+  if (cc.sources_agreed === true) {
+    extra += `<span style="margin-left:8px;font-size:11px;color:var(--green)">2 sources agree</span>`;
+  } else if (cc.sources_agreed === false) {
+    extra += `<span style="margin-left:8px;font-size:11px;color:var(--amber)">sources diverge</span>`;
+  }
+  const flags = (cc.flags || []).map(f =>
+    `<div style="font-size:12px;color:var(--amber);margin-top:4px">⚠ ${f}</div>`
+  ).join('');
+  return `<div style="display:flex;align-items:center;flex-wrap:wrap;gap:4px;margin-bottom:16px">
+    <span class="spread-badge ${cls}" style="font-size:12px">${text}</span>${extra}${flags}
+  </div>`;
+}
+
 // ────────────── Listing block ──────────────
 
 function listingDates(listing) {
@@ -225,15 +255,18 @@ function renderListing(slug, listing, events, historyMap) {
   };
 
   // ── Compose HTML ──
+  const dsLabel = { playwright: 'Live Airbnb', insideairbnb: 'Inside Airbnb', synthetic: 'Synthetic seed' };
+  const dsNote = dsLabel[listing.data_source] || listing.data_source || '';
   const html = `
     <section class="listing" data-listing-slug="${slug}">
       <header class="listing-header">
         <div class="title-block">
           <h2>${listing.name}</h2>
-          <div class="subtitle">${listing.subtitle || ''}</div>
+          <div class="subtitle">${listing.subtitle || ''}${dsNote ? ` <span style="opacity:.5;font-size:12px">· ${dsNote}</span>` : ''}</div>
         </div>
         <span class="spread-badge ${spreadClass}">${spreadLabel}</span>
       </header>
+      ${crossCheckBadge(listing.cross_check)}
 
       <div class="kpi-grid">
         <div class="kpi">
@@ -521,21 +554,27 @@ function renderBanners(latest, history) {
   if (!latest) {
     slot.innerHTML = `<div class="banner warn">
       <span class="dot"></span>
-      <div><strong>No data yet.</strong> Run <code>./scripts/refresh.sh</code> in the project folder to generate the first snapshot.</div>
+      <div><strong>No data yet.</strong> Run <code>./scripts/refresh.sh</code> to generate the first snapshot.</div>
     </div>`;
     return;
   }
-  const synthCount = Object.values(latest.listings || {}).reduce((sum, l) =>
-    sum + Object.values(l.by_date || {}).filter(x => x.synthetic).length, 0);
-  if (synthCount > 0) {
-    slot.innerHTML = `<div class="banner warn">
-      <span class="dot"></span>
-      <div><strong>Showing synthetic seed.</strong> No real Airbnb scrape yet — values derived from your pricing strategy CSVs. Run <code>sources/airbnb_scrape.py --plan</code> and drive Playwright MCP to get real comp data.</div>
+  const src = latest.data_source || 'synthetic';
+  if (src === 'playwright') {
+    if (history.length < 2) {
+      slot.innerHTML = `<div class="banner info"><span class="dot"></span>
+        <div>Live Airbnb scrape loaded. Movement table needs a 2nd scan for week-over-week changes.</div>
+      </div>`;
+    }
+  } else if (src === 'insideairbnb') {
+    const iabDate = Object.values(latest.listings || {})[0]?.cross_check?.insideairbnb_median ? '' : '';
+    slot.innerHTML = `<div class="banner info"><span class="dot"></span>
+      <div><strong>Inside Airbnb data.</strong> Real comp prices from the latest monthly snapshot — seasonally adjusted per day. Run the Playwright MCP step in <code>refresh.sh</code> to upgrade to live search-result scrapes.</div>
     </div>`;
-  } else if (history.length < 2) {
-    slot.innerHTML = `<div class="banner info">
-      <span class="dot"></span>
-      <div>Real data loaded. Movement table needs a 2nd scan to compute week-over-week changes.</div>
+  } else {
+    slot.innerHTML = `<div class="banner warn"><span class="dot"></span>
+      <div><strong>Synthetic seed — AirROI-grounded.</strong> Comp medians derived from AirROI neighborhood ADR (${
+        Object.values(latest.listings || {}).map(l => l.cross_check?.benchmark_adr ? 'AED ' + l.cross_check.benchmark_adr : '').filter(Boolean).join(' / ')
+      }) with seasonal multipliers and event premiums. Run <code>./scripts/refresh.sh</code> for real data.</div>
     </div>`;
   }
 }

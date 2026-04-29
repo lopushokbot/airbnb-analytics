@@ -1,891 +1,989 @@
 {
-  "generated_at": "2026-04-29T12:20:07.171426+00:00",
+  "generated_at": "2026-04-29T12:50:04.700680+00:00",
   "horizon_days": 90,
+  "data_source": "synthetic",
   "listings": {
     "port-la-mer": {
       "name": "Port de la Mer",
       "subtitle": "1BR \u00b7 Jumeirah 1 \u00b7 Marina + Burj Khalifa view",
       "by_date": {
         "2026-05-01": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 705.0,
+          "comp_p25_host_aed": 564.0,
+          "comp_p75_host_aed": 881.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-02": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 705.0,
+          "comp_p25_host_aed": 564.0,
+          "comp_p75_host_aed": 881.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-03": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-04": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-05": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-06": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-07": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-08": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 705.0,
+          "comp_p25_host_aed": 564.0,
+          "comp_p75_host_aed": 881.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-09": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 705.0,
+          "comp_p25_host_aed": 564.0,
+          "comp_p75_host_aed": 881.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-10": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-11": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-12": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-13": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-14": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-15": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 705.0,
+          "comp_p25_host_aed": 564.0,
+          "comp_p75_host_aed": 881.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-16": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 705.0,
+          "comp_p25_host_aed": 564.0,
+          "comp_p75_host_aed": 881.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-17": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-18": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-19": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-20": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-21": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 598.0,
+          "comp_p25_host_aed": 478.0,
+          "comp_p75_host_aed": 748.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-22": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 705.0,
+          "comp_p25_host_aed": 564.0,
+          "comp_p75_host_aed": 881.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-23": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 776.0,
+          "comp_p25_host_aed": 621.0,
+          "comp_p75_host_aed": 970.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-24": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 657.0,
+          "comp_p25_host_aed": 526.0,
+          "comp_p75_host_aed": 821.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-25": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 657.0,
+          "comp_p25_host_aed": 526.0,
+          "comp_p75_host_aed": 821.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-26": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 717.0,
+          "comp_p25_host_aed": 574.0,
+          "comp_p75_host_aed": 896.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-27": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 717.0,
+          "comp_p25_host_aed": 574.0,
+          "comp_p75_host_aed": 896.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-28": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 717.0,
+          "comp_p25_host_aed": 574.0,
+          "comp_p75_host_aed": 896.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-29": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 846.0,
+          "comp_p25_host_aed": 677.0,
+          "comp_p75_host_aed": 1058.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-30": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 776.0,
+          "comp_p25_host_aed": 621.0,
+          "comp_p75_host_aed": 970.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-31": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 657.0,
+          "comp_p25_host_aed": 526.0,
+          "comp_p75_host_aed": 821.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-01": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-02": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-03": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-04": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-05": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-06": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-07": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-08": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-09": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-10": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-11": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-12": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-13": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-14": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-15": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-16": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-17": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-18": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-19": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-20": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-21": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-22": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-23": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-24": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-25": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-26": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-27": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-28": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-29": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-30": {
-          "comp_median_host_aed": 535.0,
-          "comp_p25_host_aed": 455.0,
-          "comp_p75_host_aed": 615.0,
+          "comp_median_host_aed": 618.0,
+          "comp_p25_host_aed": 494.0,
+          "comp_p75_host_aed": 772.0,
           "comp_count": 0,
           "your_rate_now": 380,
           "your_rate_after_reviews": 425,
           "guest_sees_now": 464,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-01": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-02": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-03": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-04": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-05": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-06": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-07": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-08": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-09": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-10": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-11": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-12": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-13": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-14": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-15": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-16": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-17": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-18": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-19": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-20": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-21": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-22": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-23": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-24": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-25": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 710.0,
+          "comp_p25_host_aed": 568.0,
+          "comp_p75_host_aed": 888.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-26": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-27": {
-          "comp_median_host_aed": 493.0,
-          "comp_p25_host_aed": 419.0,
-          "comp_p75_host_aed": 567.0,
+          "comp_median_host_aed": 602.0,
+          "comp_p25_host_aed": 482.0,
+          "comp_p75_host_aed": 752.0,
           "comp_count": 0,
           "your_rate_now": 350,
           "your_rate_after_reviews": 380,
           "guest_sees_now": 427,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         }
+      },
+      "data_source": "synthetic",
+      "cross_check": {
+        "confidence": "synthetic",
+        "sources_agreed": null,
+        "airroi_adr": 720,
+        "airdna_adr": 760,
+        "benchmark_adr": 740,
+        "note": "No real Airbnb scrape yet. Run refresh.sh \u2192 Playwright MCP step."
       }
     },
     "mjl-iconic-terrace": {
@@ -893,885 +991,982 @@
       "subtitle": "1BR \u00b7 Umm Suqeim 3 \u00b7 Private terrace + pool \u00b7 near Burj Al Arab",
       "by_date": {
         "2026-05-01": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 832.0,
+          "comp_p25_host_aed": 666.0,
+          "comp_p75_host_aed": 1040.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-02": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 832.0,
+          "comp_p25_host_aed": 666.0,
+          "comp_p75_host_aed": 1040.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-03": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-04": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-05": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-06": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-07": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-08": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 832.0,
+          "comp_p25_host_aed": 666.0,
+          "comp_p75_host_aed": 1040.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-09": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 832.0,
+          "comp_p25_host_aed": 666.0,
+          "comp_p75_host_aed": 1040.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-10": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-11": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-12": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-13": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-14": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-15": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 832.0,
+          "comp_p25_host_aed": 666.0,
+          "comp_p75_host_aed": 1040.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-16": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 832.0,
+          "comp_p25_host_aed": 666.0,
+          "comp_p75_host_aed": 1040.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-17": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-18": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-19": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-20": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-21": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 706.0,
+          "comp_p25_host_aed": 565.0,
+          "comp_p75_host_aed": 882.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-22": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 832.0,
+          "comp_p25_host_aed": 666.0,
+          "comp_p75_host_aed": 1040.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-23": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 916.0,
+          "comp_p25_host_aed": 733.0,
+          "comp_p75_host_aed": 1145.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-24": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 776.0,
+          "comp_p25_host_aed": 621.0,
+          "comp_p75_host_aed": 970.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-25": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 776.0,
+          "comp_p25_host_aed": 621.0,
+          "comp_p75_host_aed": 970.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-26": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 847.0,
+          "comp_p25_host_aed": 678.0,
+          "comp_p75_host_aed": 1059.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-27": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 847.0,
+          "comp_p25_host_aed": 678.0,
+          "comp_p75_host_aed": 1059.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-28": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 847.0,
+          "comp_p25_host_aed": 678.0,
+          "comp_p75_host_aed": 1059.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-29": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 999.0,
+          "comp_p25_host_aed": 799.0,
+          "comp_p75_host_aed": 1249.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-30": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 916.0,
+          "comp_p25_host_aed": 733.0,
+          "comp_p75_host_aed": 1145.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-05-31": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 776.0,
+          "comp_p25_host_aed": 621.0,
+          "comp_p75_host_aed": 970.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-01": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-02": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-03": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-04": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-05": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-06": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-07": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-08": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-09": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-10": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-11": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-12": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-13": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-14": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-15": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-16": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-17": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-18": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-19": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-20": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-21": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-22": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-23": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-24": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-25": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-26": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-27": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 861.0,
+          "comp_p25_host_aed": 689.0,
+          "comp_p75_host_aed": 1076.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-28": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-29": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-06-30": {
-          "comp_median_host_aed": 646.0,
-          "comp_p25_host_aed": 549.0,
-          "comp_p75_host_aed": 743.0,
+          "comp_median_host_aed": 729.0,
+          "comp_p25_host_aed": 583.0,
+          "comp_p75_host_aed": 911.0,
           "comp_count": 0,
           "your_rate_now": 420,
           "your_rate_after_reviews": 495,
           "guest_sees_now": 512,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-01": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-02": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-03": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-04": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-05": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-06": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-07": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-08": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-09": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-10": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-11": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-12": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-13": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-14": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-15": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-16": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-17": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-18": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-19": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-20": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-21": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-22": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-23": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-24": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-25": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 839.0,
+          "comp_p25_host_aed": 671.0,
+          "comp_p75_host_aed": 1049.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-26": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         },
         "2026-07-27": {
-          "comp_median_host_aed": 600.0,
-          "comp_p25_host_aed": 510.0,
-          "comp_p75_host_aed": 690.0,
+          "comp_median_host_aed": 711.0,
+          "comp_p25_host_aed": 569.0,
+          "comp_p75_host_aed": 889.0,
           "comp_count": 0,
           "your_rate_now": 390,
           "your_rate_after_reviews": 460,
           "guest_sees_now": 476,
-          "synthetic": true
+          "synthetic": true,
+          "synthetic_base": "airroi"
         }
+      },
+      "data_source": "synthetic",
+      "cross_check": {
+        "confidence": "synthetic",
+        "sources_agreed": null,
+        "airroi_adr": 850,
+        "airdna_adr": 890,
+        "benchmark_adr": 870,
+        "note": "No real Airbnb scrape yet. Run refresh.sh \u2192 Playwright MCP step."
       }
     }
   }
