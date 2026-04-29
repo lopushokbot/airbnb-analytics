@@ -27,9 +27,9 @@ echo
 
 echo "[3/6] Generating Airbnb scrape plan"
 echo "      (Phase 1: drive these URLs through Playwright MCP, save results to data/sources/)"
-$PY sources/airbnb_scrape.py --plan | head -40
-echo "      …(full plan in data/scrape_plan.json)"
 $PY sources/airbnb_scrape.py --plan > data/scrape_plan.txt
+head -40 data/scrape_plan.txt
+echo "      …(full plan in data/scrape_plan.txt)"
 echo
 
 echo "[4/6] Merging scrape files into latest.json"

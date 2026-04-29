@@ -116,6 +116,13 @@ function renderMacro({ airroi, airdna, airbtics }) {
       });
     });
   }
+  if (airdna?.dubai) {
+    cards.push({
+      label: 'Dubai ADR median (AirDNA)',
+      value: fmtAED(airdna.dubai.adr_aed_median),
+      sub: `Occupancy: ${airdna.dubai.occupancy_median_pct || '—'}% · RevPAR ${fmtAED(airdna.dubai.revpar_aed)}`,
+    });
+  }
   if (airbtics?.dubai_1br) {
     cards.push({
       label: '1BR Y1 revenue median',
@@ -539,11 +546,12 @@ function getCSS(varname) {
   return getComputedStyle(document.documentElement).getPropertyValue(varname).trim() || '#000';
 }
 function hexA(hex, alpha) {
-  // accept 'rgb(...)' or '#rrggbb' — for CSS vars that resolve to either
   if (hex.startsWith('#') && hex.length === 7) {
     const r = parseInt(hex.slice(1,3), 16), g = parseInt(hex.slice(3,5), 16), b = parseInt(hex.slice(5,7), 16);
     return `rgba(${r},${g},${b},${alpha})`;
   }
+  const rgb = hex.match(/^rgb\(\s*(\d+),\s*(\d+),\s*(\d+)\s*\)$/);
+  if (rgb) return `rgba(${rgb[1]},${rgb[2]},${rgb[3]},${alpha})`;
   return hex;
 }
 
